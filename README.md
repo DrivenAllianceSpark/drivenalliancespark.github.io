@@ -1,4 +1,4 @@
-# Driven Stream
+# drivenSpark
 
 This is a Jekyll/Bootstrap backed blog with a Disqus comment engine. It is published to:
 
