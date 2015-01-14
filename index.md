@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Driven Stream
-tagline: ideas and insights from Driven and our Associates.
+title: Spark
+tagline: please change me
 ---
 {% include JB/setup %}
 
