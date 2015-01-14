@@ -2,15 +2,15 @@
 
 This is a Jekyll/Bootstrap backed blog with a Disqus comment engine. It is published to:
 
-http://stream.drivenalliance.com/
+http://spark.drivenalliance.com/
 
 
 ## Contributing
 
 If you are a part of Driven or an Associate and would like to make a post, do the following (TLDR: clone the repo and duplicate the layout of one of the existing files in /_post)...
 
-* Clone a local copy of https://github.com/DrivenAllianceStream/drivenalliancestream.github.io
-* Make a dupicate of any post (e.g. _posts/2014-10-17-problems.md), rename it with the current date and your post title (eg 2014-12-09-MyPost.md)
+* Clone a local copy of https://github.com/DrivenAllianceSpark/drivenalliancespark.github.io
+* Make a dupicate of any post, rename it with the current date and your post title (eg 2014-12-09-MyPost.md)
 * Open the file in a markdown editor (Mou on OSX is great http://25.io/mou/), or a plain text editor
 * Change the title, category, tagline, author, tags to anything you need to
 * Write your post in below {% include JB/setup %} 
